@@ -649,7 +649,7 @@ header {
   font-weight: 600;
 }
 
-Projects Page */ .page-hero {
+.page-hero {
   background: var(--gradient-primary);
   color: white;
   padding: 120px 0 80px;
